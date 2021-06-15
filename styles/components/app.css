@@ -1,0 +1,110 @@
+.first-bar{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+
+.first-bar p{
+    margin-right: 150px;
+    text-align: center;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    color:rgb(47, 47, 47);
+    font-size: 16px;
+}
+
+.indicator{
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 20px;
+    color:rgb(47, 47, 47);
+    font-size: 18px;
+}
+
+.categories{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 16px;
+
+}
+
+.musics p{
+    color: rgb(115, 115, 115);
+    font-size: 13px;
+    text-align: center;
+}
+/* text */
+
+
+.text-one{
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 31px;
+    padding-bottom: 13px;
+}
+
+
+.h1{
+    font-size: 22px;
+}
+.h2{
+    font-size: 18px;
+    padding-top: 24px;
+}
+
+.h3{
+    font-size: 16px;
+    padding-top: 24px;
+}
+.h4{
+    font-size: 14px;
+    padding-top: 24px;
+}
+
+.text-two{
+    padding-top: 24px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.Paragraph1{
+    font-style: italic;
+    font-size: 16px;
+}
+.t{
+    font-size: 14px;
+}
+
+.text-three{
+    padding-top: 24px;
+    width: 90%;
+    margin: 0 auto;
+
+}
+
+.Paragraph2{
+    font-style: italic;
+    font-size: 13px;
+}
+
+.r{
+    font-size: 11px;
+}
+
+.btn{
+    padding-top: 35px;
+    width: 90%;
+    margin: 0 auto;
+}
+.verificate{
+    color: rgb(47, 47, 47);
+    font-size: 12px;
+    text-align: center;
+    padding-top: 85px;
+    padding-bottom: 20px;
+}
