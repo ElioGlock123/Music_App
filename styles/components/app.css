@@ -33,78 +33,39 @@
 
 }
 
-.musics p{
+.musics__text{
     color: rgb(115, 115, 115);
     font-size: 13px;
     text-align: center;
 }
-/* text */
 
 
-.text-one{
-    width: 90%;
-    margin: 0 auto;
-    padding-top: 31px;
-    padding-bottom: 13px;
-}
 
-
-.h1{
-    font-size: 22px;
-}
-.h2{
-    font-size: 18px;
-    padding-top: 24px;
-}
-
-.h3{
-    font-size: 16px;
-    padding-top: 24px;
-}
-.h4{
-    font-size: 14px;
-    padding-top: 24px;
-}
-
-.text-two{
-    padding-top: 24px;
-    width: 90%;
-    margin: 0 auto;
-}
-
-.Paragraph1{
-    font-style: italic;
-    font-size: 16px;
-}
-.t{
-    font-size: 14px;
-}
-
-.text-three{
-    padding-top: 24px;
-    width: 90%;
-    margin: 0 auto;
-
-}
-
-.Paragraph2{
-    font-style: italic;
-    font-size: 13px;
-}
-
-.r{
-    font-size: 11px;
-}
 
 .btn{
-    padding-top: 35px;
-    width: 90%;
+    padding-top: 65px;
     margin: 0 auto;
+    position: absolute;
+    width: 351px;
+    height: 51px;
+    left: 12px;
 }
+
+
+.btn__2{
+    padding-top: 95px;
+    margin: 0 auto;
+    position: absolute;
+    width: 351px;
+    height: 51px;
+    left: 12px;
+    
+}
+
 .verificate{
-    color: rgb(47, 47, 47);
+    color: rgb(85, 85, 85);
     font-size: 12px;
     text-align: center;
-    padding-top: 85px;
+    padding-top: 180px;
     padding-bottom: 20px;
 }
