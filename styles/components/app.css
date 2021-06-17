@@ -7,7 +7,7 @@
     padding-bottom: 13px;
 }
 
-.first-bar p{
+.first-bar__name{
     margin-right: 150px;
     text-align: center;
     padding-top: 13px;
