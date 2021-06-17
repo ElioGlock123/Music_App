@@ -36,12 +36,19 @@
 
 }
 
+.text-small__ball {
+    position: absolute;
+    top: 255px;
+    right: 185px;
+}
+
 .text-small{
     color: rgb(85, 85, 85);
     font-size: 12px;
     align-items: center;
     font-weight: 500;
 }
+
 
 .list{
     padding-top: 14px;
@@ -157,12 +164,13 @@
     width: 351px;
     height: 76px;
     left: 12px;
-    top: 710px;
     margin: auto;
+    top: 700px;
     background-color: #1F1F1F;
     border-radius: 9px;
     align-items: center;
     justify-content: space-between;
+    position: absolute;
     
 }
 
